@@ -16,7 +16,7 @@
 
 - 🎓 I'm a BS Information Technology student in University of San Carlos
 - 💡 Passionate about web development, clean UI design, and scalable, user-centered systems.
-- 🌱 Currently exploring **Next.js, TypeScript, and Cloud Services**.
+- 🌱 Currently exploring authentication and security.
 
 
 
